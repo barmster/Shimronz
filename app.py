@@ -12,7 +12,7 @@ st.markdown("""
 **Agent Shimronz** is designed to perform:
 - 🧩 Skip tracing on eager real estate sellers  
 - 📊 SLOP report generation  
-- 🏡 Property value estimation based on city and state  
+- 🏡 Property value estimation based on city and state in the united states of america and teritories 
 
 **Automation includes:**
 - Up to **200 searches/day** (adjustable up to **1,000**)  
