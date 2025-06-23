@@ -29,7 +29,7 @@ def simulate_skip_trace(n):
     return pd.DataFrame({
         "Name": [f"Seller {i}" for i in range(1, n+1)],
         "Phone": [f"(555) 010-{str(i).zfill(4)}" for i in range(1, n+1)],
-        "Email": [f"seller{i}@domain.com" for i in range(1, n+1)],
+        "Email": [f"brendarmster{i}@gmail.com" for i in range(1, n+1)],
         "City": ["City A"]*n,
         "State": ["State X"]*n,
         "Estimated Property Value": [round(100000 + i*500, 2) for i in range(n)],
